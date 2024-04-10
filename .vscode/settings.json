@@ -1,5 +1,4 @@
 {
-    "cSpell.words": [
-        "clsx"
-    ]
+  "cSpell.words": ["clsx"],
+  "workbench.startupEditor": "welcomePageInEmptyWorkbench"
 }
