@@ -1,5 +1,6 @@
 import FeaturedSection from "@/components/FeaturedSection";
 import HeroSection from "@/components/HeroSection";
+import Instructors from "@/components/Instructors";
 import TestimonialCards from "@/components/TestimonialCards";
 import UpcomingWebinars from "@/components/UpcomingWebinars";
 import { WhyUsSection } from "@/components/WhyUsSection";
@@ -12,5 +13,6 @@ export default function Home() {
       <WhyUsSection/>
       <TestimonialCards/>
       <UpcomingWebinars/>
+      <Instructors/>
     </main>
   )}
